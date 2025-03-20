@@ -5,6 +5,7 @@
        b. It sends that pcm16 format to OpenAI using the API-key and gets the responce
        c. then it converts that pcm16 response to normal format and reply aloud
        (this whole process takes a very much long time to respond so it needed imporvement)
-  2. Researching.....
+  2. Researching......
+  3. 
 
      
