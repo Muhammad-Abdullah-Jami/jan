@@ -1,0 +1,13 @@
+openai==1.2.0
+websockets==11.0.3
+sounddevice==0.4.6
+numpy==1.24.2
+pydub==0.25.1
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+pyaudio==0.2.13
+tiktoken==0.9.0
+httpx == 0.25.0
+simpleaudio==1.0.4
+
